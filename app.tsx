@@ -43,3 +43,6 @@ export default function App() {
 
 //Se agrega esta constante para probar la actualizacion de la documentación 
 const vards = 9;
+// se agrega nueva cponstante sin usar
+const erd = 3;
+
