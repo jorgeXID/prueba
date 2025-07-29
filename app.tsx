@@ -40,3 +40,6 @@ export default function App() {
     </div>
   );
 }
+
+//Se agrega esta constante para probar la actualizacion de la documentación 
+const vards = 9;
