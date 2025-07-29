@@ -45,4 +45,6 @@ export default function App() {
 const vards = 9;
 // se agrega nueva cponstante sin usar
 const erd = 3;
+//nueva de prueba
+const eds = 2;
 
