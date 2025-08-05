@@ -1,5 +1,5 @@
 'use strict';
-
+const fld=23
 module.exports.hello = async (event) => {
     console.log(event)
   return {
