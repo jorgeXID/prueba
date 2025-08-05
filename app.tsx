@@ -6,6 +6,8 @@ import { HeroSection } from './presentation/components/HeroSection';
 import { HowItWorksSection } from './presentation/components/HowItWorksSection';
 import { TestimonialsSection } from './presentation/components/TestimonialsSection';
 
+const rep = 23
+
 export default function App() {
   const [showDashboard, setShowDashboard] = useState(false);
 
