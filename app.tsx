@@ -7,6 +7,7 @@ import { HowItWorksSection } from './presentation/components/HowItWorksSection';
 import { TestimonialsSection } from './presentation/components/TestimonialsSection';
 
 const rep = 23
+const newVar = 40;
 
 export default function App() {
   const [showDashboard, setShowDashboard] = useState(false);
