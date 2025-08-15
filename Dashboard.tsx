@@ -45,6 +45,7 @@ export function Dashboard() {
     null
   );
   const [searchTerm, setSearchTerm] = useState('');
+  const [searchTermNew, setSearchTermNew] = useState('');
   const [statusFilter, setStatusFilter] = useState<string>('all');
   const [repositoryFilter, setRepositoryFilter] = useState<string>('all');
   const [owner, setOwner] = useState('facebook');
