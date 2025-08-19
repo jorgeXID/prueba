@@ -9,7 +9,6 @@ import { TestimonialsSection } from './presentation/components/TestimonialsSecti
 
 export default function App() {
   const [showDashboard, setShowDashboard] = useState(false);
-  const newData = 12;
 
   // Sincronizar el estado con el hash de la URL
   useEffect(() => {
